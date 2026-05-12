@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfplan
+crash.log
+override.tf
+override.tf.json
+
+# Kubeconfig gerado
+dev-cluster-config
+kubeconfig
+*.kubeconfig
